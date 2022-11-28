@@ -93,9 +93,9 @@ h1 {
     }
  }/******* main-header style continues here ************/
 .main-header .logo {
-    height: 15%;
-    width: 15%;
-    margin-top: -2%;
+    height: 8%;
+    width: 8%;
+    /* margin-top: -2%; */
  }
  /* .main-header .logo::first-letter {
     color: var(--red-color);
